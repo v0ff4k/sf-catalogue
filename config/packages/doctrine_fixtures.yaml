@@ -1,0 +1,3 @@
+doctrine_fixtures:
+    orm:
+        fixtures_path: '%kernel.project_dir%/src/DataFixtures'
